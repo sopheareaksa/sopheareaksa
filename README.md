@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sophea Reaksa</h1>
 <h3 align="center">Computer Science Student @ Acleda University of Business | Aspiring Full Stack Developer</h3>
 
-<p align="center">
-  <img src="https://github.com/sopheareaksa" alt="Profile Views" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -18,8 +14,6 @@
 ---
 
 ### 🛠️ Tech Stack & Tools
-
-*(Note: These are examples. You can add or remove these based on what you know!)*
 
 **Frontend:**
 <p>
@@ -41,16 +35,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github.com/sopheareaksa&show_icons=true&theme=tokyonight" alt="Reaksa's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sopheareaksa&theme=tokyonight" alt="Reaksa's GitHub Streak" />
-</div>
 
 ---
 
