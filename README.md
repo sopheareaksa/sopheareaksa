@@ -47,7 +47,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sopheareaksa&show_icons=true&theme=tokyonight" alt="Reaksa's GitHub Stats" />
+  <img src="https://github.com/sopheareaksa&show_icons=true&theme=tokyonight" alt="Reaksa's GitHub Stats" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sopheareaksa&theme=tokyonight" alt="Reaksa's GitHub Streak" />
 </div>
