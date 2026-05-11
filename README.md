@@ -13,7 +13,7 @@
 - 🌱 I’m actively learning frontend and backend technologies to build end-to-end applications.
 - 🎯 **Current Goal:** Leveling up my skills to become a highly proficient **Full Stack Developer**.
 - 💡 I love exploring new tech, solving complex problems, and building things that live on the internet.
-- 📫 How to reach me: **[Add your email here]**
+- 📫 How to reach me: Sopheareaksapheak@gmail.com
 
 ---
 
@@ -47,10 +47,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- Replaces YOUR_GITHUB_USERNAME with your actual username below -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Sophea Reaksa&show_icons=true&theme=tokyonight" alt="Reaksa's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sopheareaksa&show_icons=true&theme=tokyonight" alt="Reaksa's GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sophea Reaksa&theme=tokyonight" alt="Reaksa's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sopheareaksa&theme=tokyonight" alt="Reaksa's GitHub Streak" />
 </div>
 
 ---
