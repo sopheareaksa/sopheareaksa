@@ -48,9 +48,9 @@
 
 <div align="center">
   <!-- Replaces YOUR_GITHUB_USERNAME with your actual username below -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Reaksa's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sophea Reaksa&show_icons=true&theme=tokyonight" alt="Reaksa's GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Reaksa's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sophea Reaksa&theme=tokyonight" alt="Reaksa's GitHub Streak" />
 </div>
 
 ---
@@ -58,6 +58,10 @@
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.facebook.com/share/1FWmNvNKP9/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="mailto:Sopheareaksapheak@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
