@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm currently in my **Year 2** studying **Computer Science** at **Acleda University of Business**.
+- 🎓 I'm currently in my **Year 3** studying **Computer Science** at **Acleda University of Business**.
 - 🌱 I’m actively learning frontend and backend technologies to build end-to-end applications.
 - 🎯 **Current Goal:** Leveling up my skills to become a highly proficient **Full Stack Developer**.
 - 💡 I love exploring new tech, solving complex problems, and building things that live on the internet.
