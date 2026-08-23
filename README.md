@@ -71,16 +71,16 @@ fun_fact: "I love turning ideas into real products that live on the internet ðŸŒ
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sopheareaksa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&count_private=true" alt="GitHub Stats"/>
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sopheareaksa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&count_private=true" alt="GitHub Stats"/>
   &nbsp;
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sopheareaksa&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sopheareaksa&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/> -->
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=sopheareaksa&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1f6feb&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
-</div>
+  <!-- <img width="60%" src="https://streak-stats.demolab.com?user=sopheareaksa&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1f6feb&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+</div> -->
 
 <br/>
 
