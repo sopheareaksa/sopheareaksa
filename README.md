@@ -133,9 +133,9 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sopheareaksa&theme=github_dark" alt="Contribution Graph"/>
-</div>
+</div> -->
 
 <br/>
 
